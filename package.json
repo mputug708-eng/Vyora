@@ -1,0 +1,1 @@
+{"name":"vyora","version":"1.0.0","private":true,"description":"VYORA — Meet. Live. Connect.","engines":{"node":">=22.5"},"scripts":{"start":"node --disable-warning=ExperimentalWarning server.js"},"license":"UNLICENSED"}

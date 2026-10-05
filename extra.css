@@ -1,0 +1,12 @@
+html,body{background:#0b0720}
+.ucard{background:#fff;border-radius:20px;padding:18px;display:flex;flex-direction:column;gap:8px;box-shadow:0 8px 28px #1d17300f}
+.ucard h3{margin:0}.ucard small{color:#6b6480}.ugrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.row{display:flex;gap:8px;flex-wrap:wrap}.row button,.row select{padding:9px 13px;border-radius:12px;border:1px solid #e6dff5;background:#fff;cursor:pointer;font:inherit}
+.row .pink{border:0}.avatar-big{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:800;font-size:22px;background:linear-gradient(120deg,#6d20d9,#ff159f)}
+.compose{display:flex;gap:8px;margin-bottom:16px}.compose input,.form input,.form select,.form textarea{flex:1;padding:12px;border-radius:12px;border:1px solid #e6dff5;font:inherit;width:100%;box-sizing:border-box}
+.post{background:#fff;border-radius:20px;padding:16px;margin-bottom:14px;box-shadow:0 8px 28px #1d17300f}.post p{margin:8px 0;white-space:pre-wrap;word-break:break-word}
+.cm{background:#f6f2ff;border-radius:10px;padding:8px 10px;margin:6px 0;font-size:14px}
+.form{display:flex;flex-direction:column;gap:10px}.err{color:#d6205f;font-size:14px;min-height:18px}
+.chat-body{overflow-y:auto;max-height:50vh;min-height:200px}.giftbar{display:flex;gap:6px;overflow-x:auto;padding:8px 0}.giftbar button{border:1px solid #e6dff5;background:#fff;border-radius:12px;padding:6px 10px;cursor:pointer;white-space:nowrap}
+.toast{position:fixed;left:50%;bottom:90px;transform:translateX(-50%);background:#1d1730;color:#fff;padding:12px 18px;border-radius:14px;z-index:99}
+.legal a{color:inherit;text-decoration:underline}.check{display:flex;gap:8px;align-items:flex-start;font-size:14px}.check input{width:auto;flex:none;margin-top:3px}
